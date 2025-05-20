@@ -1,3 +1,4 @@
+Welcome to my GitHub Page:
 - 👋 Hi, I’m @JD-Code05 or my Full Name is John Daniel L. Ubungen
 - 👀 I’m interested in learning how to code and make projects
 - 🌱 I’m currently learning Java and Python
