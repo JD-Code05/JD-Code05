@@ -4,7 +4,7 @@ Welcome to my GitHub Page:
 - Bachelor of Science in Computer Science
 - 👀 I’m interested in learning how to code and make projects
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on group projects that a line with my interests
+- 💞️ I’m looking to collaborate on group projects that aligned with my interests
 - 📫 How to reach me, you can reach me through my github page and through discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play video games and play the instruments. I love to travel.
