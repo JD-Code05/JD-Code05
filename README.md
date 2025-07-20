@@ -7,6 +7,10 @@ Welcome to my GitHub Page:
 - I’m looking to collaborate on group projects that align with my interests
 - How to reach me, you can reach me through my GitHub page and Discord
 - Fun fact: I love to play video games and play the instruments. I love to travel.
+You can email me, here, and other details:
+[Email](mailto:jdubungen805@gmailcom) 
+[Discord](https://discord.com/users/748075055006744656)
+LinkedIn](https://www.linkedin.com/in/john-daniel-ubungen)
 
 <!---
 JD-Code05/JD-Code05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
