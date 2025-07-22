@@ -10,7 +10,7 @@ Welcome to my GitHub Page:
 - You can email me here, and other details:
 [Email](mailto:jdubungen805@gmailcom) 
 [Discord](https://discord.com/users/748075055006744656)
-[LinkedIn](https://www.linkedin.com/in/john-daniel-ubungen)
+[LinkedIn](https://www.linkedin.com/in/john-daniel-ubungen-6b9684374/)
 
 <!---
 JD-Code05/JD-Code05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
