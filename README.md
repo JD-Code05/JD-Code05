@@ -5,7 +5,7 @@ Welcome to my GitHub Page:
 - I’m interested in learning how to code and make projects
 - I’m currently learning Java and Python
 - I’m looking to collaborate on group projects that align with my interests
-- How to reach me: you can reach me through my GitHub page and Discord
+- How to reach me: you can reach me through my GitHub page and Discord.
 - Fun fact: I love to play video games, play the instruments, and watch movies. Lastly, I also love to travel around the world.
 - You can email me here, and other details:
 [Email](mailto:jdubungen805@gmailcom) 
