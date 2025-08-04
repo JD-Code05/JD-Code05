@@ -6,7 +6,7 @@ Welcome to my GitHub Page:
 - I’m currently learning Java and Python
 - I’m looking to collaborate on group projects that align with my interests
 - How to reach me: you can reach me through my GitHub page and Discord.
-- Fun fact: I love to play video games, play the instruments, and watch movies. Lastly, I also love to travel around the world.
+- I have a strong passion for video games, playing musical instruments, and watching films. Additionally, I enjoy traveling around the world.
 - You can email me here, and other informations:
 [Email](mailto:jdubungen805@gmailcom) 
 [Discord](https://discord.com/users/748075055006744656)
