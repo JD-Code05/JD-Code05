@@ -8,7 +8,7 @@ Welcome to my GitHub Page:
 - I’m looking to collaborate on group projects that align with my interests
 - How to reach me: You can reach me through my GitHub page and Discord.
 - I have a strong passion for video games, playing musical instruments, and watching films. Additionally, I enjoy traveling around the world.
-- You can email me here, and other informations:
+- You can email me here, and other information:
 [Email](mailto:jdubungen805@gmailcom) 
 [Discord](https://discord.com/users/748075055006744656)
 [LinkedIn](https://www.linkedin.com/in/john-daniel-ubungen-6b9684374/)
