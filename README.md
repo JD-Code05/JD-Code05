@@ -1,7 +1,7 @@
 Welcome to my GitHub Page:
 - Hi, I’m @JD-Code05, or my Full Name is John Daniel Ubungen
 - Studied at De La Salle University - Dasmarinas.
-- 2nd Year College Student
+- Turning 2nd Year College Student
 - Bachelor of Science in Computer Science
 - I’m interested in learning how to code and make projects
 - I’m currently learning Java and Python
