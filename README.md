@@ -4,7 +4,7 @@ Welcome to my GitHub Page:
 - Turning 2nd Year College Student
 - Bachelor of Science in Computer Science
 - I’m interested in learning how to code and make projects
-- I’m currently learning Java and Python
+- I learned python and java
 - I’m looking to collaborate on group projects that align with my interests
 - How to reach me: You can reach me through my GitHub page and Discord.
 - I have a strong passion for video games, playing musical instruments, and watching films. Additionally, I enjoy traveling around the world.
