@@ -1,5 +1,5 @@
 Welcome to my GitHub Page:
-- Hi, I’m @JD-Code05, or my Full Name is John Daniel Ubungen, you can call me JD for short.
+- Hi, I’m @JD-Code05, or my Full Name is John Daniel Ubungen, you can call me JD.
 - Studied at De La Salle University - Dasmarinas
 - A 2nd Year College Student
 - Bachelor of Science in Computer Science
