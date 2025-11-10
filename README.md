@@ -6,7 +6,7 @@
 
 ---
 
-# 🤝 Projects & Collaboration:
+# 🤝 Collaboration:
 💻 I’m currently working on: Python projects, including a personal Discord Bot called **ZoneBot**, and a group **Discrete Structures Prototype** for cryptocurrency insights.<br>  
 🤝 I’m looking to collaborate on: open-source projects.<br>   
 🌱 I’m currently learning: Git and backend programming roadmap.<br>   
