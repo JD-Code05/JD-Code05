@@ -2,7 +2,7 @@
 👋 Hi, I’m **@JD-Code05** — but you can call me **JD** for short!<br>  
 🎓 Studying at **De La Salle University - Dasmariñas**<br>  
 💼 Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
-💡 I’m interested in learning how to code and build creative, impactful projects.<br><br>  
+💡 I’m interested in learning how to code and build creative, impactful projects.<br>  
 
 💻 I’m currently working on: Python projects, including a personal Discord Bot called **ZoneBot**, and a group **Discrete Structures Prototype** for cryptocurrency insights.<br>  
 🤝 I’m looking to collaborate on: open-source projects.<br>  
