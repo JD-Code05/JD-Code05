@@ -5,7 +5,7 @@
 🧠 I’m looking for help with: improving my web development and backend programming skills.<br>  
 🌱 I’m currently learning: Git and backend programming roadmap.<br>  
 💬 Ask me about: coding projects, creative app ideas, or tips on starting your first GitHub repo.<br>  
-⚡ Fun fact: I got into coding because I like technology — now I’m hooked on building anything that makes life easier or more fun!
+⚡ Fun fact: I got into coding because I like technology. Now I’m hooked on building anything that makes life easier or more fun!
 
 ---
 
