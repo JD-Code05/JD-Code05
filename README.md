@@ -1,11 +1,15 @@
 # 💫 About Me:
-👋 Hi there, I’m JD!<br>  
+👋 Hi, I’m **@JD-Code05** — but you can call me **JD** for short!<br>  
+🎓 Studying at **De La Salle University - Dasmariñas**<br>  
+💼 Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
+💡 I’m interested in learning how to code and build creative, impactful projects.<br><br>  
+
 💻 I’m currently working on: Python projects, including a personal Discord Bot called **ZoneBot**, and a group **Discrete Structures Prototype** for cryptocurrency insights.<br>  
 🤝 I’m looking to collaborate on: open-source projects.<br>  
 🧠 I’m looking for help with: improving my web development and backend programming skills.<br>  
 🌱 I’m currently learning: Git and backend programming roadmap.<br>  
 💬 Ask me about: coding projects, creative app ideas, or tips on starting your first GitHub repo.<br>  
-⚡ Fun fact: I got into coding because I like technology. Now I’m hooked on building anything that makes life easier or more fun!
+⚡ Fun fact: I got into coding because I like technology — now I’m hooked on building anything that makes life easier or more fun!  
 
 ---
 
