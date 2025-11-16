@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **@JD-Code05** — but you can call me **JD** for short!<br>  
+👋 Hi, I’m **@JD-Code05** but you can call me **JD** for short!<br>  
 🎓 Studying at **De La Salle University - Dasmariñas**<br>  
 💼 Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
 💡 I’m interested in learning how to code and build creative, impactful projects.<br>  
