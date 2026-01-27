@@ -7,7 +7,7 @@
 ---
 
 # 🤝 Collaboration:
-💻 I’m currently working on: Python projects, including a personal Discord Bot called **ZoneBot**, and a group **Discrete Structures Prototype** for cryptocurrency insights.<br>  
+💻 I’m currently working on projects, including **Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights.<br>  
 🤝 I’m looking to collaborate on: open-source projects.<br>   
 🌱 I’m currently learning: Git and backend programming roadmap.<br>   
 ⚡ Fun fact: I got into coding because I like technology. now I’m hooked on building anything that makes life easier or more fun, just like automation!    
