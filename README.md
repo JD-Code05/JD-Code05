@@ -1,21 +1,21 @@
-# 💫 About Me:
-👋 Hi, I’m **@JD-Code05** or you can call me JD for short!<br>  
-🎓 Studying at **De La Salle University - Dasmariñas**<br>  
-💼 Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
-💡 I’m interested in learning how to code and build creative, impactful projects.<br>  
+# About Me:
+- Hi, I’m **@JD-Code05** or you can call me JD for short!<br>  
+- Studying at **De La Salle University - Dasmariñas**<br>  
+- Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
+- I’m interested in learning how to code and build creative, impactful projects.<br>  
 
 ---
 
-# 🤝 Collaboration:
-💻 I’m currently working on projects, including **Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights(done).<br>  
-🤝 I’m looking to collaborate on: open-source projects.<br>   
-🌱 I’m currently learning: Docker, Kubernetes, and JavaScript, and following a backend programming roadmap.<br>   
-⚡ Fun fact: I got into coding because I like technology. now I’m hooked on building anything that makes life easier or more fun, just like automation!    
+# Collaboration:
+- I’m currently working on projects, including **Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights(done).<br>  
+- I’m looking to collaborate on: open-source projects.<br>   
+- I’m currently learning: Docker, Kubernetes, and JavaScript, and following a backend programming roadmap.<br>   
+- Fun fact: I got into coding because I like technology. now I’m hooked on building anything that makes life easier or more fun, just like automation!    
 
 ---
 
 
-## 💻 Tech Stack:  
+## Tech Stack:  
 <div align="center">  
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -39,7 +39,7 @@
 
 </div>
 
-## 🌐 You can Reach Me:
+## You can Reach Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/748075055006744656) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-daniel-ubungen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdubungen805@gmailcom) 
 
 </div>
