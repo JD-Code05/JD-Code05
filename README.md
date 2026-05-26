@@ -7,7 +7,7 @@
 ---
 
 # Collaboration:
-- I’m currently working on projects, including **Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights(done).<br>  
+- I’m currently working on projects, including ** AI-Driven Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights(done).<br>  
 - I’m looking to collaborate on: open-source projects.<br>   
 - I’m currently learning: MySQL, Docker, Kubernetes, and JavaScript, and following a backend programming roadmap.<br>   
 - Fun fact: I got into coding because I like technology. now I’m hooked on building anything that makes life easier or more fun, just like automation!    
