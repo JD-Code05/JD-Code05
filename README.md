@@ -2,7 +2,7 @@
 
 <p align="center">
   2nd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
-  AI Developer & DevOps · Building tools that simplify complex systems
+  Dean's List · Full-Stack & AI Developer in the making · Building tools that simplify complex systems
 </p>
 
 <p align="center">
@@ -21,8 +21,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **BS Computer Science** at DLSU-D 
+- 🎓 Studying **BS Computer Science** at DLSU-D | Dean's List (1st & 2nd Year)
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
+- 🛠️ Currently working on an **AI-Driven Steam Completionist Optimizer** using RAG + Gemini
 - 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
 - ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
 
@@ -51,6 +52,12 @@
   </a>
 </p>
 
+**AI Tools**
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-D4A574?style=for-the-badge&logo=anthropic&logoColor=black" />
+</p>
+
 ---
 
 ## 📂 Projects
@@ -58,7 +65,7 @@
 ### 🎮 [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
 > Python · MySQL · React · Flask · BeautifulSoup · Docker · Kubernetes · Gemini AI
 
-An AI-driven web application that helps Steam gamers plan and optimize their achievement hunting. Syncs your Steam library, scrapes wiki guides as **RAG** context via **BeautifulSoup**, and uses **Gemini 2.5 Flash** to generate personalized per-achievement guides, and containerized with **Docker** and orchestrated via **Kubernetes**.
+An AI-driven web application that helps Steam gamers plan and optimize their achievement hunting. Syncs your Steam library, scrapes wiki guides as **RAG** context via **BeautifulSoup**, and uses **Gemini 2.5 Flash** to generate personalized per-achievement guides — containerized with **Docker** and orchestrated via **Kubernetes**.
 
 ---
 
@@ -72,7 +79,7 @@ A cryptocurrency insights tool that models price relationships between digital a
 ### 📺 [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
 > React · FastAPI · PostgreSQL · Gemini AI · Docker · Kubernetes · yt-dlp
 
-A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI 2.5 Flash** to generate titles, descriptions, and tags — deployed with **Kubernetes** manifests backed by **PostgreSQL**.
+A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI** to generate titles, descriptions, and tags — deployed with **Kubernetes** manifests backed by **PostgreSQL**.
 
 ---
 
