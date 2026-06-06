@@ -52,12 +52,6 @@
   </a>
 </p>
 
-**AI Tools**
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-D4A574?style=for-the-badge&logo=anthropic&logoColor=black" />
-</p>
-
 ---
 
 ## 📂 Projects
