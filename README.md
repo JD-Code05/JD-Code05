@@ -23,7 +23,6 @@
 
 - 🎓 Studying **BS Computer Science** at DLSU-D | Dean's List (1st & 2nd Year)
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
-- 🛠️ Currently working on an **AI-Driven Steam Completionist Optimizer** using RAG + Gemini
 - 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
 - ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
 
@@ -41,7 +40,7 @@
 **Frameworks & Libraries**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flask,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind&theme=dark" />
   </a>
 </p>
 
@@ -59,14 +58,21 @@
 ### 🎮 [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
 > Python · MySQL · React · Flask · BeautifulSoup · Docker · Kubernetes · Gemini AI
 
-Integrated **Gemini 2.5 Flash** with a RAG setup to generate walkthrough guides and suggest optimal achievement paths for Steam games. Engineered an automated web-scraping workflow and co-deployed the full-stack app with multi-stage Docker builds and Kubernetes orchestration.
+An AI-driven web application that helps Steam gamers plan and optimize their achievement hunting. Syncs your Steam library, scrapes wiki guides as **RAG** context via **BeautifulSoup**, and uses **Gemini 2.5 Flash** to generate personalized per-achievement guides, and containerized with **Docker** and orchestrated via **Kubernetes**.
 
 ---
 
 ### 📈 [BitPredict: Digital Currency Insight Program](https://github.com/JD-Code05)
 > Python · CCXT API · Streamlit · NetworkX
 
-Co-developed a cryptocurrency insights prototype modeling digital asset price relationships using graph theory. Integrated live Binance market data via the CCXT API and co-designed a Streamlit dashboard for non-technical users.
+A cryptocurrency insights tool that models price relationships between digital assets using **graph theory** and **NetworkX**. Pulls live market data from Binance via the **CCXT API** and visualizes trends across BTC, XRP, and ETH through an interactive **Streamlit** dashboard.
+
+---
+
+### 📺 [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
+> React · FastAPI · PostgreSQL · Gemini AI · Docker · Kubernetes · yt-dlp
+
+A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI 2.5 Flash** to generate titles, descriptions, and tags — deployed with **Kubernetes** manifests backed by **PostgreSQL**.
 
 ---
 
