@@ -2,7 +2,7 @@
 
 <p align="center">
   2nd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
-  Dean's List · Full-Stack & AI Developer in the making · Building tools that simplify complex systems
+  AI Developer and DevOps · Building tools that simplify complex systems
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **BS Computer Science** at DLSU-D | Dean's List (1st & 2nd Year)
+- 🎓 Studying **BS Computer Science** at DLSU-D
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
 - 🛠️ Currently working on an **AI-Driven Steam Completionist Optimizer** using RAG + Gemini
 - 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
