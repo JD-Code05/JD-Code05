@@ -1,41 +1,75 @@
-# About Me:
-- Hi, I’m **@JD-Code05**<br>  
-- Studying at **De La Salle University - Dasmariñas**<br>  
-- Currently a **2nd Year College Student** taking up **Bachelor of Science in Computer Science**<br>  
-- I’m interested in learning how to code and build creative, impactful projects.<br>  
+<h1 align="center">Hey, I'm JD 👋</h1>
+
+<p align="center">
+  2nd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
+  Dean's List · Full-Stack & AI Developer in the making · Building tools that simplify complex systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-daniel-ubungen/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/748075055006744656">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:jdubungen805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# Collaboration:
-- I’m currently working on projects, including **AI-Driven Steam Completionist Optimizer**, and a group **Discrete Structures Prototype** for cryptocurrency insights(done).<br>  
-- I’m looking to collaborate on: open-source projects.<br>   
-- I’m currently learning: MySQL, Docker, Kubernetes, and JavaScript, and following a backend programming roadmap.<br>   
-- Fun fact: I got into coding because I like technology. now I’m hooked on building anything that makes life easier or more fun, just like automation!    
+## 🧑‍💻 About Me
+
+- 🎓 Studying **BS Computer Science** at DLSU-D | Dean's List (1st & 2nd Year)
+- 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
+- 🛠️ Currently working on an **AI-Driven Steam Completionist Optimizer** using RAG + Gemini
+- 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
+- ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
 
 ---
 
+## 🚀 Tech Stack
 
-## Tech Stack:  
-<div align="center">  
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=server&logoColor=white)
+**Languages**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql&theme=dark" />
+  </a>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flask,tailwind&theme=dark" />
+  </a>
+</p>
+
+**Tools & Platforms**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma,obsidian&theme=dark" />
+  </a>
+</p>
 
 ---
 
-</div>
+## 📂 Projects
 
-## You Can Reach Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/748075055006744656) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-daniel-ubungen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdubungen805@gmailcom) 
+### 🎮 [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
+> Python · MySQL · React · Flask · BeautifulSoup · Docker · Kubernetes · Gemini AI
 
-</div>
+Integrated **Gemini 2.5 Flash** with a RAG setup to generate walkthrough guides and suggest optimal achievement paths for Steam games. Engineered an automated web-scraping workflow and co-deployed the full-stack app with multi-stage Docker builds and Kubernetes orchestration.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📈 [BitPredict: Digital Currency Insight Program](https://github.com/JD-Code05)
+> Python · CCXT API · Streamlit · NetworkX
+
+Co-developed a cryptocurrency insights prototype modeling digital asset price relationships using graph theory. Integrated live Binance market data via the CCXT API and co-designed a Streamlit dashboard for non-technical users.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to **open-source projects**, **AI-powered tools**, and anything that makes life easier through automation. Feel free to reach out!
