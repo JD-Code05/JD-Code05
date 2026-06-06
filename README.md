@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **BS Computer Science** at DLSU-D | Dean's List (1st & 2nd Year)
+- 🎓 Studying **BS Computer Science** at DLSU-D 
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
 - 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
 - ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
