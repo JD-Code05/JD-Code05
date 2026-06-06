@@ -2,7 +2,7 @@
 
 <p align="center">
   2nd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
-  Dean's List · Full-Stack & AI Developer in the making · Building tools that simplify complex systems
+  AI Developer & DevOps · Building tools that simplify complex systems
 </p>
 
 <p align="center">
