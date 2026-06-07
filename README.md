@@ -73,7 +73,7 @@ A cryptocurrency insights tool that models price relationships between digital a
 ### 📺 [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
 > React · FastAPI · PostgreSQL · Gemini AI · Docker · Kubernetes · yt-dlp
 
-A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI** to generate titles, descriptions, and tags — deployed with **Kubernetes** manifests backed by **PostgreSQL**.
+A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI** to generate titles, descriptions, and tags. Deployed with **Kubernetes** manifests backed by **PostgreSQL**.
 
 ---
 
