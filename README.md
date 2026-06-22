@@ -24,7 +24,7 @@
 - 🎓 Studying **BS Computer Science** at DLSU-D
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
 - 🛠️ Currently working on an **ZoneBot** using RAG + Gemini
-- 📚 Learning: React, Docker, Kubernetes, MySQL, and following a backend roadmap
+- 📚 Learning: React, Docker, Kubernetes, MySQL, and following a AI workflows roadmap
 - ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
 
 ---
