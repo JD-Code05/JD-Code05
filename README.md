@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm JD 👋</h1>
 
 <p align="center">
-  2nd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
+  3rd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
   AI Developer and DevOps · Building tools that simplify complex systems
 </p>
 
