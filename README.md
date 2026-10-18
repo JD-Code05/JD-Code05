@@ -77,6 +77,6 @@ A full-stack YouTube channel management dashboard with built-in AI content intel
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 I'm open to **open-source projects**, **AI-powered tools**, and anything that makes life easier through automation. Feel free to reach out!
