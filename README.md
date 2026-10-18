@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 Studying **BS Computer Science** at DLSU-D
 - 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Languages**
 <p>
@@ -54,23 +54,23 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🎮 [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
+### [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
 > Python · MySQL · React · Flask · BeautifulSoup · Docker · Kubernetes · Gemini AI
 
 An AI-driven web application that helps Steam gamers plan and optimize their achievement hunting. Syncs your Steam library, scrapes wiki guides as **RAG** context via **BeautifulSoup**, and uses **Gemini 2.5 Flash** to generate personalized per-achievement guides — containerized with **Docker** and orchestrated via **Kubernetes**.
 
 ---
 
-### 📈 [BitPredict: Digital Currency Insight Program](https://github.com/JD-Code05)
+### [BitPredict: Digital Currency Insight Program](https://github.com/JD-Code05)
 > Python · CCXT API · Streamlit · NetworkX
 
 A cryptocurrency insights tool that models price relationships between digital assets using **graph theory** and **NetworkX**. Pulls live market data from Binance via the **CCXT API** and visualizes trends across BTC, XRP, and ETH through an interactive **Streamlit** dashboard.
 
 ---
 
-### 📺 [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
+### [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
 > React · FastAPI · PostgreSQL · Gemini AI · Docker · Kubernetes · yt-dlp
 
 A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI** to generate titles, descriptions, and tags. Deployed with **Kubernetes** manifests backed by **PostgreSQL**.
