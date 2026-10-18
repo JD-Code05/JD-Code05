@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm JD 👋</h1>
+<h1 align="center">Hey, I'm JD</h1>
 
 <p align="center">
   3rd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
